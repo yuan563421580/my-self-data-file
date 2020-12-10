@@ -1,0 +1,4 @@
+--下载地址（推荐）
+https://nginx.org/download/
+--下载地址（可查询稳定版本：Stable version）
+http://nginx.org/en/download.html
